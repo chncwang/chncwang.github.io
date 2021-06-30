@@ -47,4 +47,4 @@ For the moment, it supports rich operators and prepared NLP modules such as LSTM
 
 **Why do I want to pursue a PhD**
 
-I think the best way to maximize the value of my work over the past years is to read a Ph.D. I believe that using language structures, we can design computationally efficient models to parse long sequences. Thus InsNet will be an excellent tool to explore such novel approaches. Besides, InsNet needs to be published as a paper to be promoted to more researchers and even the industry.
+I think the best way to maximize the value of my work over the past years is to pursue a Ph.D. I believe that using language structures, we can design computationally efficient models to parse long sequences. Thus InsNet will be an excellent tool to explore such novel approaches. Besides, InsNet needs to be published as a paper to be promoted to more researchers and even the industry.
