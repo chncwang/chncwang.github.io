@@ -33,11 +33,11 @@ Surprised by the fact that MCTS with neural networks can master the game of Go, 
 
 I develop our own deep learning library [InsNet](http://github.com/chncwang/insnet) and use it to conduct NLP research. Specifically, I have conducted three research projects using InsNet as follows:
 
-**Unseen stance detection with adversarial domain generalization.** I proposed the idea of adversarial domain generalization and reproduced the baseline, and then led the first author to conduct experiments and write the paper. The paper [Unseen Stance Detection with Adversarial Domain Generalization](https://arxiv.org/pdf/2010.05471.pdf) is accepted by *IJCNN 2020* as the oral report.
+*Unseen stance detection with adversarial domain generalization.* I proposed the idea of adversarial domain generalization and reproduced the baseline, and then led the first author to conduct experiments and write the paper. The paper [Unseen Stance Detection with Adversarial Domain Generalization](https://arxiv.org/pdf/2010.05471.pdf) is accepted by *IJCNN 2020* as the oral report.
 
-**Cue-word driven open-domain conversation.** I proposed the idea of this work, conducted experiments, and wrote the paper. The paper [Cue-word driven Neural Response Generation with a Shrinking Vocabulary](https://arxiv.org/pdf/2010.04927.pdf) is still a preprint, but my supervisor Dr. Fu really appreciates this work.
+*Cue-word driven open-domain conversation.* I proposed the idea of this work, conducted experiments, and wrote the paper. The paper [Cue-word driven Neural Response Generation with a Shrinking Vocabulary](https://arxiv.org/pdf/2010.04927.pdf) is still a preprint, but my supervisor Dr. Fu really appreciates this work.
 
-**Stance-conditioned open-domain conversation.** This is my master's thesis work. It contains three parts: 1) I used a conversation dataset to train the language models and then finetuned them using thousands of instances with human-annotated stances, resulting in several stance classifiers. Finally, I chose the best classifier to generate pseudo stance labels. 2) I developed the stance-conditioned conversation model and conducted experiments to compare different stance fusion and decoding approaches. Finally, 3) I developed a retrieve-and-refine model and conducted experiments to compare several settings.
+*Stance-conditioned open-domain conversation.* This is my master's thesis work. It contains three parts: 1) I used a conversation dataset to train the language models and then finetuned them using thousands of instances with human-annotated stances, resulting in several stance classifiers. Finally, I chose the best classifier to generate pseudo stance labels. 2) I developed the stance-conditioned conversation model and conducted experiments to compare different stance fusion and decoding approaches. Finally, 3) I developed a retrieve-and-refine model and conducted experiments to compare several settings.
 
 **Compared with PyTorch, what's special about InsNet?**
 
@@ -46,3 +46,7 @@ InsNet uses [padding-free dynamic batching](https://insnet.readthedocs.io/en/lat
 For the moment, it supports rich operators and prepared NLP modules such as LSTM and Transformer. See [APIs](https://insnet.readthedocs.io/en/latest/reference.html#) for more details.
 
 I believe that deep learning libraries can fundamentally influence researchers' preference for exploring new approaches. Hence, with padding-free dynamic batching, InsNet can encourage researchers to explore more flexible and dynamic models to exploit language structures.
+
+**Why do I want to read a PhD**
+
+I think the best way to maximize the value of my work over the past years is to read a Ph.D. I believe that using language structures, we can design computationally efficient models to parse long sequences. Thus InsNet will be an excellent tool to explore such novel approaches. Besides, InsNet needs to be published as a paper to be promoted to more researchers and even the industry.
