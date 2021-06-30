@@ -45,8 +45,6 @@ InsNet uses [padding-free dynamic batching](https://insnet.readthedocs.io/en/lat
 
 For the moment, it supports rich operators and prepared NLP modules such as LSTM and Transformer. See [APIs](https://insnet.readthedocs.io/en/latest/reference.html#) for more details.
 
-I believe that deep learning libraries can fundamentally influence researchers' preference for exploring new approaches. Hence, with padding-free dynamic batching, InsNet can encourage researchers to explore more flexible and dynamic models to exploit language structures.
-
 **Why do I want to read a PhD**
 
 I think the best way to maximize the value of my work over the past years is to read a Ph.D. I believe that using language structures, we can design computationally efficient models to parse long sequences. Thus InsNet will be an excellent tool to explore such novel approaches. Besides, InsNet needs to be published as a paper to be promoted to more researchers and even the industry.
