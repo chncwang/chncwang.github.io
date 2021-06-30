@@ -23,7 +23,7 @@ Especially, I am developing the deep learning library [InsNet](http://github.com
 
 **How did I get interested in NLP?**
 
-Long before I get interested in A.I., especially NLP, I got my favorite hobby, which is the game of Go. The rule of Go is straightforward, but it leads to the most complicated game states, which is fascinating.
+Long before I get interested in NLP, I got my favorite hobby, which is the game of Go. The rule of Go is straightforward, but it leads to the most complicated game states, which is fascinating.
 
 In 2011, I developed a Go A.I. using MCTS (Monte Carlo tree search) when I was doing my undergraduate thesis. And one year later, I rewrote the program on Github and named it as [FoolGo](http://github.com/chncwang/foolgo). The Go A.I. was an unpopular topic ten years ago, and I had never expected that FoolGo would gain hundreds of stars around the game of AlphaGo vs. Lee Sedol.
 
@@ -45,8 +45,6 @@ InsNet uses [padding-free dynamic batching](https://insnet.readthedocs.io/en/lat
 
 For the moment, it supports rich operators and prepared NLP modules such as LSTM and Transformer. See [APIs](https://insnet.readthedocs.io/en/latest/reference.html#) for more details.
 
-I believe that deep learning libraries can fundamentally influence researchers' preference for exploring new approaches. Hence, with padding-free dynamic batching, InsNet can encourage researchers to explore more flexible and dynamic models to exploit language structures.
-
-**Why do I want to read a PhD**
+**Why do I want to pursue a PhD**
 
 I think the best way to maximize the value of my work over the past years is to read a Ph.D. I believe that using language structures, we can design computationally efficient models to parse long sequences. Thus InsNet will be an excellent tool to explore such novel approaches. Besides, InsNet needs to be published as a paper to be promoted to more researchers and even the industry.
