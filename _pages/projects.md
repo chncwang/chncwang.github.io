@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: open source projects
 permalink: /projects/
-description: My most interesting projects.
+description: My most interesting open source projects.
 nav: true
 display_categories: [work, fun]
 horizontal: false
