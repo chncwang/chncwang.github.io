@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a master graduate mainly interested in A.I., especially NLP. Before my graduate school, I had four years of experience as a software engineer.
 
-Especially, I am developing the deep learning library [InsNet](http://github.com/chncwang/insnet) since the year 2017.
+Especially, I am developing the deep learning library [InsNet](http://github.com/chncwang/insnet) since the year 2017 because I believe that it is important to exploit linguistic knowledge and language structures to design computationally efficient models. Still, PyTorch is not convenient enough to explore such approaches.
 
 **How did I get interested in NLP?**
 
@@ -47,4 +47,4 @@ For the moment, it supports rich operators and prepared NLP modules such as LSTM
 
 **Why do I want to pursue a PhD**
 
-I think the best way to maximize the value of my work over the past years is to pursue a Ph.D. I believe that using language structures, we can design computationally efficient models to parse long sequences. Thus InsNet will be an excellent tool to explore such novel approaches.
+I'm highly interested in NLP research. Especially, I believe that using language structures (rather than structure agnostic sparse attention), we can design computationally efficient models to parse long sequences. Besides, InsNet may be an excellent tool to explore such novel approaches.
