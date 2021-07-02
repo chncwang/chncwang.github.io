@@ -45,6 +45,8 @@ InsNet uses [padding-free dynamic batching](https://insnet.readthedocs.io/en/lat
 
 For the moment, it supports rich operators and prepared NLP modules such as LSTM and Transformer. See [APIs](https://insnet.readthedocs.io/en/latest/reference.html#) for more details.
 
-**Why do I want to pursue a PhD**
+**Why do I want to pursue a PhD?**
 
-I'm highly interested in NLP research. Especially, I believe that using language structures (rather than structure agnostic sparse attention), we can design computationally efficient models to parse long sequences. Besides, InsNet may be an excellent tool to explore such novel approaches.
+1. Compared to when I was working as a Java developer, I really enjory NLP research these years.
+2. Especially, I believe that using language structures (rather than structure agnostic sparse attention), we can design computationally efficient models to parse long sequences.
+3. Besides, InsNet may be an excellent tool to explore such novel approaches.
