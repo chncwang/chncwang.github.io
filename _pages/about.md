@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Who am I?**
 
-I'm a master graduate mainly interested in A.I., especially NLP. Before my graduate school, I had four years of experience as a software engineer.
+I'm a master graduate mainly interested in A.I., especially NLP and the A.I. system. Before my graduate school, I had four years of experience as a software engineer.
 
 Especially, I am developing the deep learning library [InsNet](http://github.com/chncwang/insnet) since the year 2017 because I believe that it is important to exploit linguistic knowledge and language structures to design computationally efficient models. Still, PyTorch is not convenient enough to explore such approaches.
 
